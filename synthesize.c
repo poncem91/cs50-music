@@ -1,3 +1,5 @@
+// code in this file provided by CS50 - I did not write any of this code
+
 // Prompts user for a sequence of notes with which to synthesize a song
 
 #include <cs50.h>
