@@ -1,3 +1,5 @@
+// code in this file provided by CS50 - I did not write any of this code
+
 // A simple sound library adapted from Douglas Thain's (dthain@nd.edu)
 // wavfile library for CSE 20211 made available under the
 // Creative Commons Attribution license.
