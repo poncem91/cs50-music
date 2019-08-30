@@ -1,3 +1,5 @@
+// code in this file provided by CS50 - I did not write any of this code
+
 // Prints frequencies of and outputs WAV file with all notes in an octave
 
 #include <cs50.h>
