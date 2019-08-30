@@ -1,3 +1,5 @@
+// code in this file provided by CS50 - I did not write any of this code
+
 // Helper functions for music
 
 #include <cs50.h>
